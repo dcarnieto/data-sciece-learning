@@ -1,1 +1,1 @@
-# data-sciece-learning
+# data-science-learning
